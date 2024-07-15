@@ -1,0 +1,854 @@
+Quick Reference Guide
+
+Intel® Core™ Desktop Processors (14th gen)
+
+Intel® Core™ Processors (14th gen) Deliver the World’s Best Desktop Experience14
+
+IMPROVED P-core and 
+E-core Frequency1
+
+MORE E-cores and 
+Increased L3 Cache for 
+Intel® Core™ i7 Processors
+
+NEW Discrete Intel® Wi-Fi 7 
+(5 Gig) Support2
+
+LARGER Max Memory Capacity 
+(Up to 192GB)
+
+Intel® 600 & Intel® 700 Chipset-
+Based Motherboard Support4
+
+INCREASED L2 & L3 Cache5
+
+Support for 
+DDR5 (Up to 5600 MT/s) and 
+DDR4 (Up to 3200 MT/s)3
+
+Performance Hybrid Architecture6   
+
+and Intel® Thread Director7
+
+1
+
+Intel® Core™ Desktop Processors (14th gen)
+
+Specification Table
+
+Processor Number
+
+Processor Cores 
+(P-cores + 
+E-cores)8
+
+Processor 
+Threads
+
+Intel® Smart 
+Cache (L3)
+
+Total L2 
+Cache
+
+Intel® Thermal 
+Velocity Boost 
+Frequency (GHz)9
+
+Processor Turbo Frequency
+
+Intel® Turbo 
+Boost Max 
+Technology 3.0 
+Frequency 
+(GHz)9
+
+Single P-core 
+Turbo 
+Frequency 
+(GHz)9
+
+Single E-core 
+Turbo Frequency 
+(GHz)10
+
+Unlocked11
+
+Processor Graphics12
+
+Total CPU 
+PCIe Lanes
+
+Max Memory Speed 
+(MT/s)13
+
+Memory 
+Channels
+
+Max 
+Memory 
+Capacity13
+
+Processor 
+Base 
+Power 
+(W) 
+
+Maximum 
+Turbo 
+Power 
+(W)
+
+Intel® Core™ i9 
+Processor  
+14900K
+
+Intel® Core™ i9 
+Processor 
+14900KF
+
+Intel® Core™ i7 
+Processor 
+14700K
+
+Intel® Core™ i7 
+Processor 
+14700KF
+
+Intel® Core™ i5 
+Processor 
+14600K
+
+Intel® Core™ i5 
+Processor 
+14600KF
+
+24 (8 +16)
+
+32
+
+36 MB
+
+32 MB
+
+Up to 6.0
+
+Up to 5.8
+
+Up to 5.6
+
+Up to 4.4
+
+Intel® UHD
+Graphics 770
+
+20
+
+DDR5 5600
+DDR4 3200
+
+2
+
+192 GB
+
+125
+
+253
+
+24 (8 +16)
+
+32
+
+36 MB
+
+32 MB
+
+Up to 6.0
+
+Up to 5.8
+
+Up to 5.6
+
+Up to 4.4
+
+n/a
+
+20
+
+DDR5 5600
+DDR4 3200
+
+2
+
+192 GB
+
+125
+
+253
+
+20 (8 +12)
+
+28
+
+33 MB
+
+28 MB
+
+n/a
+
+Up to 5.6
+
+Up to 5.5
+
+Up to 4.3
+
+Intel® UHD
+Graphics 770
+
+20
+
+DDR5 5600
+DDR4 3200
+
+2
+
+192 GB
+
+125
+
+253
+
+20 (8+12)
+
+28
+
+33 MB
+
+28 MB
+
+n/a
+
+Up to 5.6
+
+Up to 5.5
+
+Up to 4.3
+
+n/a
+
+20
+
+DDR5 5600
+DDR4 3200
+
+2
+
+192 GB
+
+125
+
+253
+
+14 (6+8)
+
+20
+
+24 MB
+
+20 MB
+
+n/a
+
+n/a
+
+Up to 5.3
+
+Up to 4.0
+
+Intel® UHD
+Graphics 770
+
+20
+
+DDR5 5600
+DDR4 3200
+
+2
+
+192 GB
+
+125
+
+181
+
+14 (6+8)
+
+20
+
+24 MB
+
+20 MB
+
+n/a
+
+n/a
+
+Up to 5.3
+
+Up to 4.0
+
+n/a
+
+20
+
+DDR5 5600
+DDR4 3200
+
+2
+
+192 GB
+
+125
+
+181
+
+For numbered references, see notices and disclaimers section.
+
+Intel Confidential – CNDA Required
+
+2
+
+Intel® Core™ Desktop Processors (14th gen)
+
+Specification Table
+
+Processor Number
+
+Processor Cores 
+(P-cores + 
+E-cores)8
+
+Processor 
+Threads
+
+Intel® Smart 
+Cache (L3)
+
+Total L2 
+Cache
+
+24 (8+16)
+
+32
+
+36 MB
+
+32 MB
+
+20 (8+12)
+
+28
+
+33 MB
+
+28 MB
+
+14 (6+8)
+
+20
+
+24 MB
+
+20 MB
+
+14 (6+8)
+
+20
+
+24 MB
+
+11.5 MB
+
+10 (6+4)
+
+4 (4+0)
+
+16
+
+8
+
+20 MB
+
+9.5 MB
+
+12 MB
+
+5 MB
+
+Intel® Thermal 
+Velocity Boost 
+Frequency (GHz)9
+
+Up to
+5.8 GHz
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+24 (8+16)
+
+32
+
+36 MB
+
+32 MB
+
+Up to
+5.8 GHz
+
+20 (8+12)
+
+28
+
+33 MB
+
+28 MB
+
+n/a
+
+10 (6+4)
+
+16
+
+20 MB
+
+9.5 MB
+
+n/a
+
+4 (4+0)
+
+8
+
+12 MB
+
+5 MB
+
+n/a
+
+Intel® Core™ i9 
+Processor 14900
+
+Intel® Core™ i7 
+Processor 14700
+
+Intel® Core™ i5 
+Processor 14600
+
+Intel® Core™ i5 
+Processor 14500
+
+Intel® Core™ i5 
+Processor 14400
+
+Intel® Core™ i3 
+Processor 14100
+
+Intel® Core™ i9 
+Processor 
+14900F
+
+Intel® Core™ i7 
+Processor 14700F
+
+Intel® Core™ i5 
+Processor 
+14400F
+
+Intel® Core™ i3 
+Processor 14100F
+
+Processor Turbo Frequency
+
+Intel® Turbo 
+Boost Max 
+Technology 3.0 
+Frequency 
+(GHz)9
+
+Up to 
+5.6 GHz
+
+Up to 
+5.4 GHz
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+Up to 
+5.6 GHz
+
+Up to 
+5.4 GHz
+
+n/a
+
+n/a
+
+Single P-core 
+Turbo Frequency 
+(GHz)9
+
+Single E-core Turbo 
+Frequency (GHz)10
+
+Processor Graphics12
+
+Total CPU 
+PCIe Lanes
+
+Max Memory Speed 
+(MT/s)13
+
+Memory 
+Channels
+
+Max Memory 
+Capacity13
+
+Processor 
+Base 
+Power 
+(W) 
+
+Maximum 
+Turbo 
+Power (W)
+
+Up to 
+5.4 GHz
+
+Up to 
+5.3 GHz
+
+Up to
+5.2 GHz
+
+Up to
+5.0 GHz
+
+Up to
+4.7 GHz
+
+Up to
+4.7 GHz
+
+Up to 
+5.4 GHz
+
+Up to 
+5.3 GHz
+
+Up to
+4.7 GHz
+
+Up to
+4.7 GHz
+
+Up to 
+4.3 GHz
+
+Up to 
+4.2 GHz
+
+Up to
+3.9 GHz
+
+Up to
+3.7 GHz
+
+Up to
+3.5 GHz
+
+n/a
+
+Up to 
+4.3 GHz
+
+Up to 
+4.2 GHz
+
+Up to
+3.5 GHz
+
+n/a
+
+Intel® UHD 
+Graphics 770
+
+Intel® UHD 
+Graphics 770
+
+Intel® UHD 
+Graphics 770
+
+Intel® UHD 
+Graphics 770
+
+Intel® UHD 
+Graphics 730
+
+Intel® UHD 
+Graphics 730
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+DDR5 5600
+DDR4 3200
+
+DDR5 5600
+DDR4 3200
+
+DDR5 5600
+DDR4 3200
+
+DDR5 4800
+DDR4 3200
+
+DDR5 4800
+DDR4 3200
+
+DDR5 4800
+DDR4 3200
+
+DDR5 5600
+DDR4 3200
+
+DDR5 5600
+DDR4 3200
+
+DDR5 4800
+DDR4 3200
+
+DDR5 4800
+DDR4 3200
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+192GB
+
+65 
+
+219 
+
+192GB
+
+65 
+
+219 
+
+192GB
+
+65 
+
+154 
+
+192GB
+
+65 
+
+154 
+
+192GB
+
+65 
+
+148 
+
+192GB
+
+60 
+
+110 
+
+192 GB
+
+65 
+
+219 
+
+192 GB
+
+65 
+
+219 
+
+192 GB
+
+65 
+
+148 
+
+192 GB
+
+58 
+
+110 
+
+For numbered references, see notices and disclaimers section.
+
+Intel Confidential – CNDA Required
+
+3
+
+Notices and Disclaimers
+Notices & Disclaimers
+
+Performance varies by use, configuration, and other factors. Learn more on the Performance Index site.
+Performance results are based on testing as of dates shown in configurations and may not reflect all publicly available updates. See backup for configuration details. No product or 
+component can be absolutely secure.
+Your costs and results may vary.
+Intel technologies may require enabled hardware, software, or service activation.
+© Intel Corporation. Intel, the Intel logo, and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.
+
+1. Select SKUs E-cores frequency improved. See ark.intel.com for SKU details.
+2. Subject to regional availability, operating system support and router compatibility. Learn more at https://www.intel.com/content/www/us/en/products/docs/wireless/wi-fi-7.html 
+3. On select processor SKUs. DDR5-5600 MT/s 1DPC UDIMM 1Rx8, 1Rx16 (lead supplier) and DDR5-5200 1Rx8, 1Rx16, 2Rx8 are POR on all Intel® Core™ i9 desktop processor SKUs, all 
+
+Intel® Core™ i7 desktop processor SKUs, and select Intel® Core™ i5 desktop processor SKUs (14th gen).
+
+4. Check motherboard vendor for compatible BIOS. 
+5.
+6. Performance hybrid architecture combines two core microarchitectures, Performance-cores (P-cores) and Efficient-cores (E-cores), on a single processor die first introduced on 
+
+Intel® Core™ i5 desktop processors (14th gen), Intel® Core™ i7 desktop processors (14th gen), and Intel® Core™ i9 desktop processors (14th gen) only.
+
+12th Gen Intel® Core™ processors. Select 12th Gen and newer Intel® Core™ processors do not have performance hybrid architecture, only P-cores, and have same cache size as prior 
+generation. Intel® Core™ i3 N-series processors only have E-cores. See ark.intel.com for SKU details.
+
+7. Built into the hardware, Intel® Thread Director is provided only in performance hybrid architecture configurations of 12th Gen or newer Intel® Core™ processors; OS enablement is 
+
+required. Available features and functionality vary by OS.
+
+8. Processor cores listed first are the total number of cores in the processor followed by the number of P-cores and E-cores in parentheses (P+E).
+9.
+10. Efficient-core frequencies are lower to optimize power usage. The frequency of cores and core types varies by workload, power consumption, and other factors. Visit 
+
+Intel® Hyper-Threading Technology, Intel® Turbo Boost Max Technology 3.0, and Intel® Thermal Velocity Boost are only available on Performance-cores.
+
+https://www.intel.com/content/www/us/en/architecture-and-technology/turbo-boost/turbo-boost-technology.html for more information.
+
+11. Unlocked features are present with select chipsets and processor combinations. Altering clock frequency or voltage may void any product warranties and reduce stability, security, 
+
+performance, and life of the processor and other components. Check with system and component manufacturers for details.
+
+12. Available only on Intel® Core™ processors (14th gen) featuring integrated graphics.
+13. Maximum memory speeds are associated with 1 DIMM per Channel (1DPC) configurations. Additional DIMM loading on any channel may impact maximum memory speed. Up to 
+
+DDR5-5600 MT/s 1DPC UDIMM 1Rx8, 1Rx16 and DDR5-5200 1Rx8, 1Rx16, 2Rx8 on select SKUs. Maximum memory capacity is achievable with 2DPC configurations.
+
+4
+
+Notices and Disclaimers
+Notices & Disclaimers
+
+Performance varies by use, configuration, and other factors. Learn more on the Performance Index site.
+Performance results are based on testing as of dates shown in configurations and may not reflect all publicly available updates. See backup for configuration details. No product or 
+component can be absolutely secure.
+Your costs and results may vary.
+Intel technologies may require enabled hardware, software, or service activation.
+© Intel Corporation. Intel, the Intel logo, and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.
+
+14. Based on the performance (as of October 2023) and other attributes of Intel® Core™ processors (14th gen) that combine to form the best overall desktop experience. These include: 
+
+•
+
+•
+
+Fast speeds: up to Max Turbo Frequency of 6GHz – the highest for any desktop processor at volume. See ark.intel.com for details. 
+
+Strong processor performance across a collection of benchmarks and real-world gaming, productivity, and content creation workloads, including in relation to prior generation 
+(13th Gen Intel® Core™ processors) and AMD Ryzen 9 7950X and AMD Ryzen 9 7950X3D processors.
+
+• New and improved tuning and optimization features.
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Broad memory support for both DDR4 and DDR5 memory modules.
+
+Support for best in class wired and wireless connectivity, including discrete Intel® Wi-Fi 7 (5 Gig) support. See intel.com/PerformanceIndex (connectivity) for details.
+
+Intel’s unparalleled approach to security like security assurance programs founded on security by design principles, transparency, and disclosure of vulnerabilities and a robust 
+Intel® Platform Update process, an esteemed bug bounty program as well as internal research through red teams and more.
+Breadth of price and performance options available in Intel® Core™ processor family (14th gen).
+Extensive open ecosystem enablement (e.g., OEMs, ODMs, OSs, ISVs, etc.).
+
+Additional details available at intel.com/14thgen
+
+5
+
+
